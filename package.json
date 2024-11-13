@@ -1,0 +1,24 @@
+{
+  "name": "my-swapi-tests",
+  "version": "1.0.0",
+  "description": "Testes automatizados da API SWAPI para Star Wars",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "dependencies": {
+    "axios": "^0.27.2"
+  },
+  "devDependencies": {
+    "jest": "^29.0.0"
+  },
+  "keywords": [
+    "star-wars",
+    "swapi",
+    "api",
+    "tests",
+    "nodejs"
+  ],
+  "author": "Seu Nome",
+  "license": "ISC"
+}
